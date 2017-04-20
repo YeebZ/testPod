@@ -48,5 +48,5 @@ end
 
 # s.public_header_files = 'Pod/Classes/**/*.h'
 # s.frameworks = 'UIKit', 'MapKit'
-# s.dependency 'MyPodTest', '~> 0.2.0'
+# s.dependency 'MyPodTest'
 end
